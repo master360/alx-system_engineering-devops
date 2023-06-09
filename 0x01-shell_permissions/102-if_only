@@ -1,2 +1,2 @@
-102-if_only
+#!/bin/bash
 chown vincent:staff*
